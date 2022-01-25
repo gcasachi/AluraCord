@@ -1,5 +1,5 @@
 {
-  "name": "Aluracord - Matrix (peas)",
+  "name": "Aluracord - World Of Warcraft",
   "stickers": [
     "http://2.bp.blogspot.com/-d21tffsTIQo/U_H9QjC69gI/AAAAAAAAKqM/wnvOyUr6a_I/s1600/Pikachu%2B2.gif",
     "https://media1.giphy.com/media/BdghqxNFV4efm/200.gif",
@@ -11,16 +11,17 @@
   "theme": {
     "colors": {
       "primary": {
-        "050": "#E3F9E5",
-        "100": "#C1EAC5",
-        "200": "#A3D9A5",
-        "300": "#7BC47F",
-        "400": "#57AE5B",
-        "500": "#3F9142",
-        "600": "#2F8132",
-        "700": "#207227",
-        "800": "#0E5814",
-        "900": "#05400A"
+        "050": "#8EE4F5",
+        "100": "#7CE0F4",
+        "200": "#69DBF2",
+        "300": "#56DEF0",
+        "400": "#43D2EF",
+        "500": "#31CEED",
+        "600": "#1EC9EB",
+        "700": "#14BFE1",
+        "800": "#12AFCE",
+        "900": "#109FBC",
+        "1000": "#0D7F96"
       },
       "neutrals": {
         "000": "#FFFFFF",
