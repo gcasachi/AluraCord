@@ -84,8 +84,7 @@ export default function PaginaInicial() {
               width: '100%', maxWidth: '700px',
               borderRadius: '10px', padding: '32px', margin: '16px',
               boxShadow: '0 2px 10px 0 rgb(0 0 0 / 20%)',
-              backgroundColor: appConfig.theme.colors.neutrals[700],
-              opacity: '90%',
+              backgroundColor: appConfig.theme.colors.neutrals["transparent"],
             }}
           >
             {/* Formulário */}
@@ -93,7 +92,7 @@ export default function PaginaInicial() {
               as="form"
               styleSheet={{
                 display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center',
-                width: { xs: '100%', sm: '50%' }, textAlign: 'center', marginBottom: '32px',
+                width: { xs: '100%', sm: '50%' }, textAlign: 'center', marginBottom: '32px', 
               }}
             >
               <Titulo tag="h2">Boas vindas de volta!</Titulo>
